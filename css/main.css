@@ -137,12 +137,22 @@ textarea {
     background-repeat: no-repeat;
     background-size: 100% auto;
     padding: 110px 0;
+    text-align: center;
 }
 
 .sectionfour p{
     text-align: center;
     font-size: 4.5em;
     color: #80893E;
+}
+
+.sectionfour a{
+    font-weight: 700;
+    font-size: 3em;
+    margin-top: -55px;
+    display: block;
+    color: #6EA3E7;
+    text-decoration: none;
 }
 
 
