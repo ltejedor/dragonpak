@@ -116,7 +116,7 @@ textarea {
 }
 
 .sectiontwo{
-    padding: 60px 0;
+    padding: 60px 0 0;
     background-color: rgb(154, 230, 248);
 }
 
@@ -243,6 +243,12 @@ textarea {
 
 @media only screen and (min-width: 35em) {
     /* Style adjustments for viewports that meet the condition */
+}
+
+@media (max-width: 600px) {
+  .sectiontwo img {
+    width: 100%;
+  }
 }
 
 @media print,
