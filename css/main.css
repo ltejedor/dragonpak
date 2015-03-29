@@ -115,9 +115,35 @@ textarea {
     text-align: center;
 }
 
+.sectiontwo{
+    padding: 60px 0;
+    background-color: rgb(154, 230, 248);
+}
 
+.sectiontwo img{
+    margin: 0 auto;
+    display: block;
+}
 
+.sectionthree img{
+    margin: 0 auto;
+    display: block;
+    width: 100%;
+}
 
+.sectionfour{
+    width: 100%;
+    background-image:url("../img/waterfall.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    padding: 110px 0;
+}
+
+.sectionfour p{
+    text-align: center;
+    font-size: 4.5em;
+    color: #80893E;
+}
 
 
 
