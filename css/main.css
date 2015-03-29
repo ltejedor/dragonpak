@@ -155,8 +155,13 @@ textarea {
     text-decoration: none;
 }
 
+.cd-words-wrapper b{
+    float: right;
+}
 
-
+.cd-headline{
+    margin-left: -75px;
+}
 
 
 /* ==========================================================================
