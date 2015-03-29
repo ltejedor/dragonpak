@@ -98,11 +98,12 @@ textarea {
 
 
 .sectionone{
+    background-position-y: -190px;
     width: 100%;
-    background-image:url("../img/coachella-splash.jpg");
+    background-image:url("http://41.media.tumblr.com/2c44e49233d0a5b0e1b65bdf2eb97a6d/tumblr_nlu4fqKnQ61qfirfao1_1280.jpg");
     background-repeat: no-repeat;
     background-size: 100% auto;
-    padding: 75px 0;
+    padding: 110px 0;
 }
 
 .sectionone img{
